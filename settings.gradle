@@ -1,0 +1,3 @@
+rootProject.name = "JitpackUser"
+include ':app'
+include ':tjlib'
